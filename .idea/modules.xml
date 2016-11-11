@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MixView2.iml" filepath="$PROJECT_DIR$/MixView2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/absolutelayouttest/absolutelayouttest.iml" filepath="$PROJECT_DIR$/absolutelayouttest/absolutelayouttest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/customview/customview.iml" filepath="$PROJECT_DIR$/customview/customview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/framelayouttest/framelayouttest.iml" filepath="$PROJECT_DIR$/framelayouttest/framelayouttest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/linearlayouttest/linearlayouttest.iml" filepath="$PROJECT_DIR$/linearlayouttest/linearlayouttest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/relativelayouttest/relativelayouttest.iml" filepath="$PROJECT_DIR$/relativelayouttest/relativelayouttest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tablelayouttest/tablelayouttest.iml" filepath="$PROJECT_DIR$/tablelayouttest/tablelayouttest.iml" />
+    </modules>
+  </component>
+</project>

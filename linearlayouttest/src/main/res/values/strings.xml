@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LinearLayoutTest</string>
+    <string name="btn1">按钮一</string>
+    <string name="btn2">按钮二</string>
+    <string name="btn3">按钮三</string>
+    <string name="btn4">按钮四</string>
+    <string name="btn5">按钮五</string>
+</resources>
